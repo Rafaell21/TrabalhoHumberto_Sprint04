@@ -24,3 +24,4 @@ D:\Projeto\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.csproj.Generat
 D:\Projeto\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.csproj.CoreCompileInputs.cache
 D:\Projeto\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.dll
 D:\Projeto\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.pdb
+D:\Projeto\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.csprojAssemblyReference.cache

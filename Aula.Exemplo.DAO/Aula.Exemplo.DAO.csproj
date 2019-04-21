@@ -47,8 +47,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="alunoDAO.cs" />
+    <Compile Include="campanhaDAO.cs" />
+    <Compile Include="empresaDAO.cs" />
     <Compile Include="estadoCivilDAO.cs" />
+    <Compile Include="funcionarioDAO.cs" />
+    <Compile Include="perguntasDAO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="responsavelDAO.cs" />
+    <Compile Include="respostaDAO.cs" />
+    <Compile Include="vencedorDAO.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Aula.Exemplo.VO\Aula.Exemplo.VO.csproj">

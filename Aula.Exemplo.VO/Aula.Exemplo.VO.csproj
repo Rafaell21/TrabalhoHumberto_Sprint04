@@ -42,7 +42,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="aluno.cs" />
+    <Compile Include="CAMPANHA.cs" />
+    <Compile Include="EMPRESA.cs" />
     <Compile Include="estadoCivil.cs" />
+    <Compile Include="FUNCIONARIO.cs" />
+    <Compile Include="PERGUNTAS.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Resources\ResourcesComum.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -59,6 +63,9 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>ResourcesAluno.resx</DependentUpon>
     </Compile>
+    <Compile Include="RESPONSAVEL.cs" />
+    <Compile Include="RESPOSTAS.cs" />
+    <Compile Include="VENCEDOR.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Resources\ResourcesComum.resx">
