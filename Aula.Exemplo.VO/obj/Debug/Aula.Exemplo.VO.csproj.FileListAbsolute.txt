@@ -1,0 +1,26 @@
+C:\Users\famil\onedrive\documentos\visual studio 2017\Projects\Aula.Exemplo\Aula.Exemplo.VO\bin\Debug\Aula.Exemplo.VO.dll
+C:\Users\famil\onedrive\documentos\visual studio 2017\Projects\Aula.Exemplo\Aula.Exemplo.VO\bin\Debug\Aula.Exemplo.VO.pdb
+C:\Users\famil\onedrive\documentos\visual studio 2017\Projects\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.csprojResolveAssemblyReference.cache
+C:\Users\famil\onedrive\documentos\visual studio 2017\Projects\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.Resources.ResourcesComum.resources
+C:\Users\famil\onedrive\documentos\visual studio 2017\Projects\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.Resources.ResourcesEstadoCivil.resources
+C:\Users\famil\onedrive\documentos\visual studio 2017\Projects\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.Resources.ResourcesAluno.resources
+C:\Users\famil\onedrive\documentos\visual studio 2017\Projects\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.csproj.GenerateResource.Cache
+C:\Users\famil\onedrive\documentos\visual studio 2017\Projects\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.dll
+C:\Users\famil\onedrive\documentos\visual studio 2017\Projects\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.VO\bin\Debug\Aula.Exemplo.VO.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.VO\bin\Debug\Aula.Exemplo.VO.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.Resources.ResourcesComum.resources
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.Resources.ResourcesEstadoCivil.resources
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.Resources.ResourcesAluno.resources
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.csproj.GenerateResource.Cache
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.pdb
+D:\Projeto\Aula.Exemplo\Aula.Exemplo.VO\bin\Debug\Aula.Exemplo.VO.dll
+D:\Projeto\Aula.Exemplo\Aula.Exemplo.VO\bin\Debug\Aula.Exemplo.VO.pdb
+D:\Projeto\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.Resources.ResourcesComum.resources
+D:\Projeto\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.Resources.ResourcesEstadoCivil.resources
+D:\Projeto\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.Resources.ResourcesAluno.resources
+D:\Projeto\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.csproj.GenerateResource.cache
+D:\Projeto\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.csproj.CoreCompileInputs.cache
+D:\Projeto\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.dll
+D:\Projeto\Aula.Exemplo\Aula.Exemplo.VO\obj\Debug\Aula.Exemplo.VO.pdb

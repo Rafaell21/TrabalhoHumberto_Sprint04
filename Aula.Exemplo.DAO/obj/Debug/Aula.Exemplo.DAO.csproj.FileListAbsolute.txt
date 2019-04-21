@@ -1,0 +1,20 @@
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.DAO\bin\Debug\Aula.Exemplo.DAO.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.DAO\bin\Debug\Aula.Exemplo.DAO.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.DAO\bin\Debug\Aula.Exemplo.VO.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.DAO\bin\Debug\Sistema.Arquitetura.Library.Core.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.DAO\bin\Debug\Sistema.Arquitetura.Library.Data.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.DAO\bin\Debug\Aula.Exemplo.VO.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.DAO\bin\Debug\Sistema.Arquitetura.Library.Core.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.DAO\bin\Debug\Sistema.Arquitetura.Library.Data.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.DAO\obj\Debug\Aula.Exemplo.DAO.csprojResolveAssemblyReference.cache
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.DAO\obj\Debug\Aula.Exemplo.DAO.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.DAO\obj\Debug\Aula.Exemplo.DAO.pdb
+D:\Projeto\Aula.Exemplo\Aula.Exemplo.DAO\bin\Debug\Aula.Exemplo.DAO.dll
+D:\Projeto\Aula.Exemplo\Aula.Exemplo.DAO\bin\Debug\Aula.Exemplo.DAO.pdb
+D:\Projeto\Aula.Exemplo\Aula.Exemplo.DAO\bin\Debug\Aula.Exemplo.VO.dll
+D:\Projeto\Aula.Exemplo\Aula.Exemplo.DAO\bin\Debug\Aula.Exemplo.VO.pdb
+D:\Projeto\Aula.Exemplo\Aula.Exemplo.DAO\obj\Debug\Aula.Exemplo.DAO.csprojAssemblyReference.cache
+D:\Projeto\Aula.Exemplo\Aula.Exemplo.DAO\obj\Debug\Aula.Exemplo.DAO.csproj.CoreCompileInputs.cache
+D:\Projeto\Aula.Exemplo\Aula.Exemplo.DAO\obj\Debug\Aula.Exemplo.DAO.csproj.CopyComplete
+D:\Projeto\Aula.Exemplo\Aula.Exemplo.DAO\obj\Debug\Aula.Exemplo.DAO.dll
+D:\Projeto\Aula.Exemplo\Aula.Exemplo.DAO\obj\Debug\Aula.Exemplo.DAO.pdb
